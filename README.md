@@ -1,2 +1,2 @@
-# Datapack-roket-1.19.X
-Datapack-roket-1.19.X
+# Datapack-1.19.X-roket
+Datapack-1.19.X-roket
